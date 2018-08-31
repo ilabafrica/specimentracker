@@ -1,2 +1,2 @@
-# specimentracker
+# Specimen Tracker
 Specimen Tracking
