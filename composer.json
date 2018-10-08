@@ -1,0 +1,16 @@
+{
+"name": "ilabafrica/specimentracker",
+"description": "Sample Traker",
+"authors": [
+{
+"name": "iLabAfrica",
+"email": "ilabafrica@strathmore.edu"
+}
+],
+"minimum-stability": "dev",
+"autoload": {
+"psr-4": {
+"ILabAfrica\\SampleTracker\\": "src/"
+}
+}
+}
