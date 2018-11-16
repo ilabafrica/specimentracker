@@ -1,0 +1,11 @@
+{
+    "name": "ilabafrica/specimentracker",
+    "authors": [
+        {
+            "name": "ilabafrica",
+            "email": "ilabafrica@strathmore.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
