@@ -1,0 +1,16 @@
+{
+    "name": "ilabafrica/specimentracker",
+    "authors": [
+        {
+            "name": "ilabafrica",
+            "email": "ilabafrica@strathmore.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ILabAfrica\\SpecimenTracker\\": "src/"
+        }
+    }
+}
