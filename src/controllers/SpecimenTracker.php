@@ -20,7 +20,7 @@ class SpecimenTracker extends Controller
         $where ="MONTH(`created_at`) =".date('m')." AND YEAR(`created_at`)=".date('Y');
         $count =  DB::table('specimens')->whereRaw($where)->count();
         $count+=1;
-        
+
         $tracker =date('Y_m_d');
 
         $data = 'ILAB_'.$count. '_'.$tracker;
